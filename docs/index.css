@@ -24,7 +24,7 @@ body {
   }
 
   .a {
-    margin-left: 30%;
+    margin-left: 20%;
   }
   
   .navbar a:hover {
@@ -40,4 +40,10 @@ body {
     position: fixed;
     bottom: 0;
     width: 100%;
+  }
+
+  .principal {
+    background-image: url("KMTws_post701ojbgd5faw3FfGab.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
   }
